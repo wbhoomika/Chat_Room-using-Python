@@ -1,4 +1,4 @@
-# Puthon program to implement server side of chat room
+# Python program to implement server side of chat room
 import socket
 import select
 
